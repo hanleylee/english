@@ -1,0 +1,117 @@
+# sentence
+
+I like footabll, basketball and table tennis.
+
+My parents went to Hainan, and I cooked by myself.
+
+a big, wonderful wheel
+
+In the middle of the coldest winter on record, the pipes froze.
+
+Since she's your younger sister, please take care of her.
+
+I said, "Let's go shopping".
+
+She studied very hard, didn't she?
+
+How will you solve the problem.
+
+I wonder how you will solve the problem.
+
+Will you please hurry up.
+
+How upsetting.
+
+What a shame!
+
+This is my idea: go fishing.
+
+We transferred three employees to new branches: Chen Jie to Guilin, Sam Smart to Tokyo, Mike Wang to London.
+
+Our manager needs five people: two students, two engineers, and a professor.
+
+The mother said: "It was very dangerous."
+
+I realize I need exercise; however, I'll lie down first to think about it.
+
+The employees were Jack White, the general manager; Tom Taylor, the engineer and Susan Smith.
+
+I want to obtain the whole-year or half-year lease of the apartment.
+
+"Well", the teacher said to him, "you look like your father."
+
+I asked, "Could you understand me?"
+
+The frightened girl screamed, "Help!"
+
+He interrupted me, "Now, listen---" and went on saying.
+
+Have you read "The Old Man and the Sea"?
+
+Chapter four is "The Internet".
+
+The report contained the "facts" of the case.
+
+"SOS" is message for help from a ship or aircraft when in danger.
+
+Emily Dickenson(1830-1886) was a great poet in American Literature.
+
+Wash some pears, apples...
+
+"If that the way you think...just go back to school." she said.
+
+Linda's book
+
+My sister got A's in her final exam.
+
+"Yes, ma' am, I've got it." the waitress said.
+
+Can you sing the song *Yesterday Once More*
+
+In China, the man over eighty is called *mao die*
+
+Out ship headed south.
+
+He handed me a glass of beer.
+
+Have you phoned me?
+
+This plant flowers every year.
+
+Mother is nursing the baby.
+
+He doctored in China for many years.
+
+I am going to breakfast with them tomorrow.
+
+We should finish our work today.
+
+He is a man of strong build.
+
+We should stop to have a break.
+
+The workers lowered a microphone into the mine.
+
+She looks well in red.
+
+The poor can't afford the house loan.
+
+The spy was outed by the police.
+
+Test for English Majors
+
+College English Test
+
+Testing of English as a Foreign Language
+
+Graduate Record Examination
+
+Teach English as a Foreign Language
+
+Teach English as a Second Language
+
+The People's Republic of China
+
+Asia-Pacific Economic Cooperation
+
+Acquired Immune Deficiency Syndrome
