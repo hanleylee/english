@@ -1241,6 +1241,14 @@
 - `write-only`: 只写
 - `xxx based`: 基于 xxx 的
 - `xxx oriented`: 面向 xxx
+- `regex`: regular expression, 正则
+- `matching`: 匹配
+- `metacharacter`: 元字符
+- `flavor`: 流派
+- `subexpression`: 子表达式
+- `lookaround`: 环视
+- `lookahead`: 顺序环视
+- `positive lookahead`: 肯定型顺序环视
 
 ## 术语缩写
 
@@ -1317,6 +1325,8 @@
 | XSL           | eXtensibleStylesheet Language                    | 可扩展样式表语言                 |
 | XSLT          | eXtensibleStylesheet Language Transformation     | 可扩展样式表语言转换             |
 | OOP           | object oriented programming                      | 面向对象程序设计                 |
+| PIC           | Personal in charge                               | 负责人                           |
+| POSIX         | Portable Operating System Interface              | 可移植操作系统接口               |
 
 ## 特殊短语
 
