@@ -1242,8 +1242,10 @@
 - `xxx based`: 基于 xxx 的
 - `xxx oriented`: 面向 xxx
 - `regex`: regular expression, 正则
+- `file glob`: 文件群组
 - `matching`: 匹配
 - `metacharacter`: 元字符
+- `wildcards`: 通配符
 - `flavor`: 流派
 - `subexpression`: 子表达式
 - `lookaround`: 环视
