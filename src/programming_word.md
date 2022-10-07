@@ -1254,81 +1254,84 @@
 
 ## 术语缩写
 
-| English(缩写) | English(全称)                                    | 中文                             |
-|---------------|--------------------------------------------------|----------------------------------|
-| A.I.          |                                                  | 人工智慧 人工智能                |
-| API           | ApplicationProgramming Interface                 | 应用 (程序) 编程接口             |
-| ASP           | Active ServerPage                                | 活动服务器页面                   |
-| BCL           | base classlibrary                                | 基类库                           |
-| CIL           | commonintermediate language                      | 通用中间语言, 通用中介语言       |
-| CLI           | CommonLanguage Infrastructure                    | 通用语言基础设施                 |
-| CLI           | Command Line Interface                           | 命令行模式                       |
-| CLS           | commonlanguage specification                     | 通用语言规范                     |
-| COFF          | CommonObject File Format                         | 通用对象文件格式                 |
-| COM           | ComponentObject Model                            | 组件对象模型                     |
-| CORBA         | Common Object Request Broker Architecture        | 通用对象请求中介架构             |
-| CTS           | common typesystem                                | 通用类型系统                     |
-| DBMS          | databasemanagement system                        | 数据库管理系统                   |
-| DCOM          | distributedCOM                                   | 分布式 COM                       |
-| DHCP          | dynamic host configuration protocol              | 动态主机设置协议                 |
-| DHTML         | dynamicHyperText Markup Language                 | 动态超文本标记语言               |
-| DIME          | DirectInternet Message Encapsulation             | 直接 Internet 消息封装           |
-| DISCO         | Discoveryof Web Services                         | Web Services 的查找              |
-| DISPID        | DispatchIdentifier                               | 分派标识符                       |
-| DNA           | DistributedinterNet Application                  | 分布式网间应用程序               |
-| DOM           | DocumentObject Model                             | 文档对象模型                     |
-| DTD           | document typedefinition                          | 文档类型定义                     |
-| DSN           | Data source name                                 | 数据源名称                       |
-| DDL           | DefinitionLanguage                               | 数据定义语言                     |
-| EAI           | enterpriseapplication integration                | 企业应用程序集成 (整合)          |
-| EBCO          | empty baseclass optimization                     | 空基类优化 (机制)                |
-| EDI           | DlectronicData Interchange                       | 电子数据交换                     |
-| FTP           | file transfer protocol                           |                                  |
-| GAC           | globalassembly cache                             | 全局装配件缓存, 全局配件缓存     |
-| GC            | Garbagecollection                                | 垃圾回收 (机制), 垃圾收集 (机制) |
-| GUI           | Graphic User Interface                           | 图形界面模式                     |
-| GUID          | GloballyUnique Identifier                        | 全球唯一标识符                   |
-| HTML          | HyperTextMarkup Language                         | 超文本标记语言                   |
-| HTTP          | HyperTextTransfer Protocol                       | 超文本传输协议                   |
-| IDE           | IntegratedDevelopment Environment                | 集成开发环境                     |
-| IDL           | InterfaceDefinition Language                     | 接口定义语言                     |
-| IL            | IntermediateLanguage                             | 中间语言, 中介语言               |
-| IME           | Input Method Editor                              | 输入法                           |
-| MWE           | minimal working example                          | 最小工作环境                     |
-| NS            |                                                  | nextstep                         |
-| NGEN          | Native ImageGenerator                            | 本地映像生成器                   |
-| ODS           | Open Data Services                               | 开放式数据服务                   |
-| ODBC          | Open DatabaseConnectivity                        | 开放式数据库连接                 |
-| PDA           | personaldigital assistant                        | 个人数字助理                     |
-| PE file       | PortableExecutable File                          | 可移植可执行文件                 |
-| PInvoke       | platforminvoke service                           | 平台调用服务                     |
-| PRD           | product requirement document                     | 产品需求文档                     |
-| RPC           | remoteprocedure call                             | RPC(远程过程调用)                |
-| SDK           | SoftwareDevelopment Kit                          | 软件开发包                       |
-| SMTP          |                                                  |                                  |
-| SMTP          | Simple MailTransfer Protocol                     | 简单邮件传输协议                 |
-| SOAP          | simpleobject access protocol                     | 简单对象访问协议                 |
-| SQL           | StructuredQuery Language                         | 结构化查询语言                   |
-| UE            | User Experience                                  |                                  |
-| UI            | User Interface                                   | 用户界面                         |
-| UX            | User Experience Design                           |                                  |
-| VPS           | Virtual Private Serve                            | 虚拟专用服务器                   |
-| CLR           | common language runtime                          | 通用语言执行层                   |
-| TCP           | TransportControl Protocol                        | 传输控制协议                     |
-| UDDI          | UniversaryDescription, Discovery and Integration | 统一描述, 查询与集成             |
-| UML           | unifiedmodeling language                         | 统一建模语言                     |
-| URI           | UniformResource identifier                       | 统一资源标识符                   |
-| URL           | UniformResource Locator                          | 统一资源定位器                   |
-| VEE           | VirtualExecution Engine                          | 虚拟执行引擎                     |
-| WSDL          | Web ServiceDescription LanguageWeb Service       | 描述语言                         |
-| XML           | eXtensibleMarkup Language                        | 可扩展标记语言                   |
-| XMI           | XML MessageInterface                             | XML 消息接口                     |
-| XSD           | XML SchemaDefinition XML                         | 模式定义语言                     |
-| XSL           | eXtensibleStylesheet Language                    | 可扩展样式表语言                 |
-| XSLT          | eXtensibleStylesheet Language Transformation     | 可扩展样式表语言转换             |
-| OOP           | object oriented programming                      | 面向对象程序设计                 |
-| PIC           | Personal in charge                               | 负责人                           |
-| POSIX         | Portable Operating System Interface              | 可移植操作系统接口               |
+| English(缩写) | English(全称)                                      | 中文                             |
+|---------------|----------------------------------------------------|----------------------------------|
+| A.I.          |                                                    | 人工智慧 人工智能                |
+| API           | ApplicationProgramming Interface                   | 应用 (程序) 编程接口             |
+| ASP           | Active ServerPage                                  | 活动服务器页面                   |
+| BCL           | base classlibrary                                  | 基类库                           |
+| CIL           | commonintermediate language                        | 通用中间语言, 通用中介语言       |
+| CLI           | CommonLanguage Infrastructure                      | 通用语言基础设施                 |
+| CLI           | Command Line Interface                             | 命令行模式                       |
+| CLS           | commonlanguage specification                       | 通用语言规范                     |
+| COFF          | CommonObject File Format                           | 通用对象文件格式                 |
+| COM           | ComponentObject Model                              | 组件对象模型                     |
+| CORBA         | Common Object Request Broker Architecture          | 通用对象请求中介架构             |
+| CTS           | common typesystem                                  | 通用类型系统                     |
+| DBMS          | databasemanagement system                          | 数据库管理系统                   |
+| DCOM          | distributedCOM                                     | 分布式 COM                       |
+| DHCP          | dynamic host configuration protocol                | 动态主机设置协议                 |
+| DHTML         | dynamicHyperText Markup Language                   | 动态超文本标记语言               |
+| DIME          | DirectInternet Message Encapsulation               | 直接 Internet 消息封装           |
+| DISCO         | Discoveryof Web Services                           | Web Services 的查找              |
+| DISPID        | DispatchIdentifier                                 | 分派标识符                       |
+| DNA           | DistributedinterNet Application                    | 分布式网间应用程序               |
+| DOM           | DocumentObject Model                               | 文档对象模型                     |
+| DTD           | document typedefinition                            | 文档类型定义                     |
+| DSN           | Data source name                                   | 数据源名称                       |
+| DDL           | DefinitionLanguage                                 | 数据定义语言                     |
+| EAI           | enterpriseapplication integration                  | 企业应用程序集成 (整合)          |
+| EBCO          | empty baseclass optimization                       | 空基类优化 (机制)                |
+| EDI           | DlectronicData Interchange                         | 电子数据交换                     |
+| FTP           | file transfer protocol                             |                                  |
+| GAC           | globalassembly cache                               | 全局装配件缓存, 全局配件缓存     |
+| GC            | Garbagecollection                                  | 垃圾回收 (机制), 垃圾收集 (机制) |
+| GUI           | Graphic User Interface                             | 图形界面模式                     |
+| GUID          | GloballyUnique Identifier                          | 全球唯一标识符                   |
+| HTML          | HyperTextMarkup Language                           | 超文本标记语言                   |
+| HTTP          | HyperTextTransfer Protocol                         | 超文本传输协议                   |
+| IDE           | IntegratedDevelopment Environment                  | 集成开发环境                     |
+| IDL           | InterfaceDefinition Language                       | 接口定义语言                     |
+| IL            | IntermediateLanguage                               | 中间语言, 中介语言               |
+| IME           | Input Method Editor                                | 输入法                           |
+| MWE           | minimal working example                            | 最小工作环境                     |
+| NS            |                                                    | nextstep                         |
+| NGEN          | Native ImageGenerator                              | 本地映像生成器                   |
+| ODS           | Open Data Services                                 | 开放式数据服务                   |
+| ODBC          | Open DatabaseConnectivity                          | 开放式数据库连接                 |
+| PDA           | personaldigital assistant                          | 个人数字助理                     |
+| PE file       | PortableExecutable File                            | 可移植可执行文件                 |
+| PInvoke       | platforminvoke service                             | 平台调用服务                     |
+| PRD           | product requirement document                       | 产品需求文档                     |
+| RPC           | remoteprocedure call                               | RPC(远程过程调用)                |
+| SDK           | SoftwareDevelopment Kit                            | 软件开发包                       |
+| SMTP          |                                                    |                                  |
+| SMTP          | Simple MailTransfer Protocol                       | 简单邮件传输协议                 |
+| SOAP          | simpleobject access protocol                       | 简单对象访问协议                 |
+| SQL           | StructuredQuery Language                           | 结构化查询语言                   |
+| UE            | User Experience                                    |                                  |
+| UI            | User Interface                                     | 用户界面                         |
+| UX            | User Experience Design                             |                                  |
+| VPS           | Virtual Private Serve                              | 虚拟专用服务器                   |
+| CLR           | common language runtime                            | 通用语言执行层                   |
+| TCP           | TransportControl Protocol                          | 传输控制协议                     |
+| UDDI          | UniversaryDescription, Discovery and Integration   | 统一描述, 查询与集成             |
+| UML           | unifiedmodeling language                           | 统一建模语言                     |
+| URI           | UniformResource identifier                         | 统一资源标识符                   |
+| URL           | UniformResource Locator                            | 统一资源定位器                   |
+| VEE           | VirtualExecution Engine                            | 虚拟执行引擎                     |
+| WSDL          | Web ServiceDescription LanguageWeb Service         | 描述语言                         |
+| XML           | eXtensibleMarkup Language                          | 可扩展标记语言                   |
+| XMI           | XML MessageInterface                               | XML 消息接口                     |
+| XSD           | XML SchemaDefinition XML                           | 模式定义语言                     |
+| XSL           | eXtensibleStylesheet Language                      | 可扩展样式表语言                 |
+| XSLT          | eXtensibleStylesheet Language Transformation       | 可扩展样式表语言转换             |
+| OOP           | object oriented programming                        | 面向对象程序设计                 |
+| PIC           | Personal in charge                                 | 负责人                           |
+| POSIX         | Portable Operating System Interface                | 可移植操作系统接口               |
+| ASCII         | American Standard Code for Information Interchange |                                  |
+| UCS           | Universal Character Set                            |                                  |
+| UTF           | Unicode/UCS Transformation Format                  |                                  |
 
 ## 特殊短语
 
