@@ -72,6 +72,18 @@ example:
 
 - The man **received** razor blades
 
+#### 现在分词
+
+present participle
+
+- 作为谓语的一部分: I am working from home now(working 现在分词, 表示进行时态)
+- 充当定语: This company has many employees working from home(working from home 现在分词充当定语)
+
+#### 过去分词
+
+- 作为谓语的一部分: I have done this task.(done 过去分词, 表示完成时态)
+- 充当定语: I have many books written in English(written in English 过去分词, 充当定语)
+
 ### 形容词
 
 adjective, 形容名词的词
@@ -126,6 +138,7 @@ art, 起限定作用
 
 - the
 - an
+- a
 
 - **the** apple
 - **an** apple
@@ -155,12 +168,20 @@ example:
 
 ### 连词
 
-- and
-- or
-- but
-- so
-- however
-- if
+- 并列连词
+    - and
+    - or
+    - but
+- 从属连词
+    - while
+    - although
+    - because
+    - when
+    - before
+    - after
+    - so
+    - however
+    - if
 
 example:
 
@@ -169,23 +190,38 @@ example:
 - time **and** money
 - The handsome man received many razor blades, **so** he opened a store in Chengdu
 
+> - 从属连词后面加从句, 一定要有主句
+> - 从属连词后面一定要加独立的句子, 不能少成分
+
+## 非谓语动词(不定式与动名词)
+
+去掉主语, 谓语动词改为 `to do` / `doing`, 后面保持不变, 然后整个作为一个名词看就是非谓语动词
+
+`I study science at university`
+
+- 动名词版本: Studying science at university was a greate experience.(充当主语)
+- 不定式版本: It is my decision to study science at university.(充当主语)
+
+动名词一般强调一个事情, 这个事情目前正在进行, 或者是客观存在; 而不定式表示一个还没发生的事情
+
 ## 句子成分
 
 - 主语(subject): 在一个句子中充当主角
 - 谓语(predicate): 主语的动作
 - 宾语(object): 动作作用的对象
 - 定语(attribute): 修饰限定名词
-- 壮语(adverbial): 作修饰, 说明地点, 时间, 结果, 条件, 方式, 方向, 程度等
+- 状语(adverbial): 作修饰, 说明地点, 时间, 结果, 条件, 方式, 方向, 程度等
 - 补语(complement): 分为 `主语补足语` 与 `宾语补足语`, 常说的表语也是主语的补语. 对宾语的补足说明, 使句子更完整
 - 同位语(appositive): 跟随名词, 与前面的名词都在说同一个人, 甚至可以和前面的名词互换位置
 - 表语(predicative): 主语的补语
 
 example:
 
-- `The handsome man with a bell holds a girl on the boat at dusk.`: `handsome` & `with a bell` 是定语, `on the boat` & `at dusk` 是壮语
+- `The handsome man with a bell holds a girl on the boat at dusk.`: `handsome` & `with a bell` 是定语, `on the boat` & `at dusk` 是状语
 - `She let him alone`: `alone` 是对宾语的补充说明,  即补语
 - `The other man is a Gaofushuai`: 主系表, 也是主谓补
 - `Zhanhuwei, a Gaofushuai, is cheated by a girl!`: 同位语从句
+- `She likes eating fast food such as fries and hamburgers.`: `fries and hamburgers` 是同位语
 
 ## 句型
 
@@ -203,10 +239,72 @@ example:
 | 谓语     | 动词性           |
 | 宾语     | 名词性           |
 | 定语     | 形容词性         |
-| 壮语     | 副词性           |
+| 状语     | 副词性           |
 | 表语     | 名词性或形容词性 |
 | 补语     | 不定             |
 | 同位语   | 名词性           |
+
+|            | 主语 | 宾语 | 表语 | 宾语的补语 | 定语 | 状语 | 同位语 |
+| ---------- | ---- | ---- | ---- | ---------- | ---- | ---- | ------ |
+| 名词       | √    | √    | √    | √          | √    |      | √      |
+| 代词       | √    | √    |      |            | √    | √    | √      |
+| 动名词     | √    | √    | √    |            |      |      |        |
+| 不定式     | √    | √    |      | √          |      |      |        |
+| 形容词     |      |      | √    | √          | √    |      |        |
+| 现在分词   |      |      | √    | √          | √    | √    |        |
+| 过去分词   |      |      | √    | √          | √    | √    |        |
+| 介宾短语   |      |      | √    | √          | √    | √    |        |
+| 数词       | √    | √    |      |            | √    |      |        |
+| 副词       |      |      |      |            |      | √    |        |
+
+## 从句
+
+### 状语从句
+
+- 原因壮语从句: because, since, as
+- 时间状语从句: when, after, before
+- 让步状语从句: although, even if, even though
+- 条件状语从句: if, when, once, as long as
+
+### 名词性从句
+
+- 主语从句: It is believed that **the population is growing older**
+- 宾语从句: I believe that **the population is growing older**
+- 表语从句: The fact is that **the population is growing older**
+- 同位语从句: The demand for health care is increasing, due to the fact that **the population is growing older**
+
+名词性从句有两种引导词:
+
+- 以 that 引导的名词性从句必定有个独立的句子
+- 以 wh 引导的名词性从句(what, why, how, when, where 等)
+
+### 定语从句
+
+定语从句是从句充当定语的功能, 类似于形容词. 因此很多人叫定语从句叫形容词从句.
+
+第一种: 以关系代词 who, that, whom, which 引导
+
+第二种: 以关系副词 why, where, when 引导
+
+### 介词短语从句
+
+**Prepositions** are words that indicate the relationships between various elements within a sentence. **Prepositional phrases** are groups of words containing prepositions. The preposition, its object, and any modifiers make up the prepositional phrase. A prepositional phrase will **begin with a preposition** and **end with the "object" of the preposition**. The pronoun "which" is the object of the preposition. "Which" introduces relative clause. The use of these prepositional phrases combines two sentences into one. Each prepositional phrase simply refers to what was already mentioned.
+
+- in which
+    - I saw a movie. In this movie the villain goes to jail.
+    - I saw a movie **in which** the villain goes to jail.
+
+- of which
+    - There were ten apples. Four of the apples were rotten.
+    - There were ten apples four **of which** were rotten.
+
+- at which
+    - She showed him the hospital. She was born at that hospital.
+    - She showed him the hospital **at which** she was born.
+
+- to which
+    - This is the report. I was referring to this report.
+    - This is the report **to which** I was referring.
 
 ## 形容词与名词的搭配
 
