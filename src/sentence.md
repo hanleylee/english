@@ -98,20 +98,4 @@ The poor can't afford the house loan.
 
 The spy was outed by the police.
 
-Test for English Majors
-
-College English Test
-
-Testing of English as a Foreign Language
-
-Graduate Record Examination
-
-Teach English as a Foreign Language
-
-Teach English as a Second Language
-
-The People's Republic of China
-
-Asia-Pacific Economic Cooperation
-
-Acquired Immune Deficiency Syndrome
+Chinese developers are concerned about their privacy protection, they never use their real IP addresses.

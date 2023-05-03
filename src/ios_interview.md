@@ -291,51 +291,37 @@ improve it. That opens up an online or offline discussion about the code, which 
 teammates and helps catch bugs and design smells early on.  Code reviews are a less-involved type of collaboration that achieves much of the same
 results as pair programming does. It also is an exercise in empathy where you're giving feedback to others on their work.
 
-1. Difference between shallow copy and deep copy?
+## Difference between shallow copy and deep copy?
 
 答案: 浅层复制: 只复制指向对象的指针, 而不复制引用对象本身.  深层复制: 复制引用对象本身.  意思就是说我有个 A 对象, 复制一份后得到 A_copy 对象后,
 对于浅复制来说, A 和 A_copy 指向的是同一个内存资源, 复制的只不过是是一个指针, 对象本身资源 还是只有一份, 那如果我们对 A_copy 执行了修改操作, 那么发现
 A 引用的对象同样被修改, 这其实违背了我们复制拷贝的一个思想. 深复制就好理解了, 内存中存在了 两份独立对象本身.  用网上一哥们通俗的话将就是:
  浅复制好比你和你的影子, 你完蛋, 你的影子也完蛋 深复制好比你和你的克隆人, 你完蛋, 你的克隆人还活着.
 
-3. Difference between categories and extensions?
+## Difference between categories and extensions?
 
 答案: category 和 extensions 的不同在于 后者可以添加属性. 另外后者添加的方法是必须要实现的.  extensions 可以认为是一个私有的 Category.
 
-5. What are KVO and KVC?
+## What are KVO and KVC?
 
-答案: kvc: 键 - 值编码是一种间接访问对象的属性使用字符串来标识属性, 而不是通过调用存取方法, 直接或通过实例变量访问的机制.
- 很多情况下可以简化程序代码. apple 文档其实给了一个很好的例子.  kvo: 键值观察机制, 他提供了观察某一属性变化的方法, 极大的简化了代码.
- 具体用看到嗯哼用到过的一个地方是对于按钮点击变化状态的的监控.  比如我自定义的一个 button [cpp]  [self addObserver:self forKeyPath:@"highlighted"
-options:0 context:nil];      #pragma mark KVO    - (void)observeValueForKeyPath:(NSString *)keyPath ofObject:(id)object change:(NSDictionary *)change
-context:(void *)context  {   if ([keyPath isEqualToString:@"highlighted"]) {   [self setNeedsDisplay];   }  } 对于系统是根据 keypath
-去取的到相应的值发生改变, 理论上来说是和 kvc 机制的道理是一样的.  对于 kvc 机制如何通过 key 寻找到 value:  "当通过 KVC 调用对象时, 比如: [self
-valueForKey:@"someKey"] 时, 程序会自动试图通过几种不同的方式解析这个调用. 首先查找对象是否带有 someKey 这个方法, 如果没找到, 会继续查找对象是否带有
-someKey 这个实例变量 (iVar), 如果还没有找到, 程序会继续试图调用 -(id) valueForUndefinedKey: 这个方法. 如果这个方法还是没有被实现的话, 程序会抛出一个
-NSUndefinedKeyException 异常错误.    (cocoachina.com 注: Key-Value Coding 查找方法的时候, 不仅仅会查找 someKey 这个方法, 还会查找 getsomeKey 这个方法,
-前面加一个 get, 或者_someKey 以及_getsomeKey 这几种形式. 同时, 查找实例变量的时候也会不仅仅查找 someKey 这个变量, 也会查找_someKey 这个变量是否存在.) 
- 设计 valueForUndefinedKey: 方法的主要目的是当你使用 -(id)valueForKey 方法从对象中请求值时, 对象能够在错误发生前, 有最后的机会响应这个请求.
-这样做有很多好处, 下面的两个例子说明了这样做的好处. " 来至 cocoa, 这个说法应该挺有道理.   因为我们知道 button 却是存在一个 highlighted 实例变量.
-因此为何上面我们只是 add 一个相关的 keypath 就行了,  可以按照 kvc 查找的逻辑理解, 就说的过去了.
-
-6. What is purpose of delegates?
+## What is purpose of delegates?
 
 答案: 代理的目的是改变或传递控制链. 允许一个类在某些特定时刻通知到其他类, 而不需要获取到那些类的指针.  可以减少框架复杂度.  另外一点, 代理可以理解为
 java 中的回调监听机制的一种类似.
 
-7. What are mutable and immutable types in Objective C?
+## What are mutable and immutable types in Objective C?
 
 答案: 可修改不可修改的集合类. 这个我个人简单理解就是可动态添加修改和不可动态添加修改一样.  比如 NSArray 和 NSMutableArray.
 前者在初始化后的内存控件就是固定不可变的, 后者可以添加等, 可以动态申请新的内存空间.
 
-8. When we call objective c is runtime language what does it mean?
+## When we call objective c is runtime language what does it mean?
 
 主要是将数据类型的确定由编译时, 推迟到了运行时.  这个问题其实浅涉及到两个概念, 运行时和多态.  简单来说,
 运行时机制使我们直到运行时才去决定一个对象的类别, 以及调用该类别对象指定方法.  多态: 不同对象以自己的方式响应相同的消息的能力叫做多态.
-意思就是假设生物类 (life) 都用有一个相同的方法 -eat; 那人类属于生物, 猪也属于生物, 都继承了 life 后, 实现各自的 eat, 但是调用是我们只需调用各自的 eat
-方法.  也就是不同的对象以自己的方式响应了相同的消息 (响应了 eat 这个选择器).  因此也可以说, 运行时机制是多态的基础? ~~~
+意思就是假设生物类 (life) 都用有一个相同的方法 eat; 那人类属于生物, 猪也属于生物, 都继承了 life 后, 实现各自的 eat, 但是调用是我们只需调用各自的 eat
+方法.  也就是不同的对象以自己的方式响应了相同的消息 (响应了 eat 这个选择器).  因此也可以说, 运行时机制是多态的基础?
 
-9. what is difference between NSNotification and protocol?
+## what is difference between NSNotification and protocol?
 
 答案: 协议有控制链 (has-a) 的关系, 通知没有.   首先我一开始也不太明白, 什么叫控制链 (专业术语了~). 但是简单分析下通知和代理的行为模式,
 我们大致可以有自己的理解 简单来说, 通知的话, 它可以一对多, 一条消息可以发送给多个消息接受者.  代理按我们的理解, 到不是直接说不能一对多,
@@ -343,75 +329,94 @@ java 中的回调监听机制的一种类似.
 明星要一个发布会, 代理人发出处理发布会的消息后, 别称 B 的 发布会了.  但是通知就不一样, 他只关心发出通知, 而不关心多少接收到感兴趣要处理.  因此控制链
 (has-a 从英语单词大致可以看出, 单一拥有和可控制的对应关系.
 
-10. What is push notification?
-11. Polymorphism?
+## What is push notification?
+
+## Polymorphism?
 
 答案: 多态, 子类指针可以赋值给父类.  这个题目其实可以出到一切面向对象语言中,  因此关于多态, 继承和封装基本最好都有个自我意识的理解,
 也并非一定要把书上资料上写的能背出来.  最重要的是转化成自我理解.
 
-12. Singleton?
+## Singleton?
 
 答案: 11, 12 题目其实出的有点泛泛的感觉了, 可能说是编程语言需要或是必备的基础.  基本能用熟悉的语言写出一个单例,
 以及可以运用到的场景或是你编程中碰到过运用的此种模式的框架类等.  进一步点, 考虑下如何在多线程访问单例时的安全性.
 
-13. What is responder chain?  答案:  事件响应链. 包括点击事件, 画面刷新事件等. 在视图栈内从上至下, 或者从下之上传播.  可以说点事件的分发,
-    传递以及处理. 具体可以去看下 touch 事件这块. 因为问的太抽象化了 严重怀疑题目出到越后面就越笼统.
+## What is responder chain?
 
-14. Difference between frame and bounds?
+答案:  事件响应链. 包括点击事件, 画面刷新事件等. 在视图栈内从上至下, 或者从下之上传播.  可以说点事件的分发, 传递以及处理. 具体可以去看下 touch 事件这块. 因为问的太抽象化了 严重怀疑题目出到越后面就越笼统.
 
-答案:frame 指的是: 该 view 在父 view 坐标系统中的位置和大小. (参照点是父亲的坐标系统) bounds 指的是: 该 view 在本身坐标系统中 的位置和大小.
-(参照点是本身坐标系统)
+## Difference between frame and bounds?
 
-15. Difference between method and selector?
+答案:frame 指的是: 该 view 在父 view 坐标系统中的位置和大小. (参照点是父亲的坐标系统) bounds 指的是: 该 view 在本身坐标系统中 的位置和大小.  (参照点是本身坐标系统)
+
+## Difference between method and selector?
 
 答案: selector 是一个方法的名字, method 是一个组合体, 包含了名字和实现. 详情可以看 apple 文档.
 
-16. Is there any garbage collection mechanism in Objective C.?
+## Is there any garbage collection mechanism in Objective C.?
 
-答案:  OBC2.0 有 Garbage collection, 但是 iOS 平台不提供.  一般我们了解的 objective-c 对于内存管理都是手动操作的, 但是也有自动释放池.
- 但是差了大部分资料, 貌似不要和 arc 机制搞混就好了.  求更多~~
+答案:  OBC2.0 有 Garbage collection, 但是 iOS 平台不提供.  一般我们了解的 objective-c 对于内存管理都是手动操作的, 但是也有自动释放池. 但是差了大部分资料, 貌似不要和 arc 机制搞混就好了.  求更多
 
-17. NSOperation queue?
+## NSOperation queue?
 
-答案: 存放 NSOperation 的集合类.  操作和操作队列, 基本可以看成 java 中的线程和线程池的概念. 用于处理 ios 多线程开发的问题.  网上部分资料提到一点是,
-虽然是 queue, 但是却并不是带有队列的概念, 放入的操作并非是按照严格的先进现出.  这边又有个疑点是, 对于队列来说, 先进先出的概念是 Afunc 添加进队列,
-Bfunc 紧跟着也进入队列, Afunc 先执行这个是必然的,  但是 Bfunc 是等 Afunc 完全操作完以后, B 才开始启动并且执行,
-因此队列的概念离乱上有点违背了多线程处理这个概念.  但是转念一想其实可以参考银行的取票和叫号系统.  因此对于 A 比 B 先排队取票但是 B 率先执行完操作,
-我们亦然可以感性认为这还是一个队列.  但是后来看到一票关于这操作队列话题的文章, 其中有一句提到 "因为两个操作提交的时间间隔很近, 线程池中的线程,
-谁先启动是不定的. " 瞬间觉得这个 queue 名字有点忽悠人了, 还不如 pool~ 综合一点, 我们知道他可以比较大的用处在于可以帮组多线程编程就好了.
+答案: 存放 NSOperation 的集合类.  操作和操作队列, 基本可以看成 java 中的线程和
+线程池的概念. 用于处理 ios 多线程开发的问题.  网上部分资料提到一点是, 虽然是
+queue, 但是却并不是带有队列的概念, 放入的操作并非是按照严格的先进现出.  这边又
+有个疑点是, 对于队列来说, 先进先出的概念是 Afunc 添加进队列, Bfunc 紧跟着也进入
+队列, Afunc 先执行这个是必然的,  但是 Bfunc 是等 Afunc 完全操作完以后, B 才开始
+启动并且执行, 因此队列的概念离乱上有点违背了多线程处理这个概念.  但是转念一想其
+实可以参考银行的取票和叫号系统.  因此对于 A 比 B 先排队取票但是 B 率先执行完操
+作, 我们亦然可以感性认为这还是一个队列.  但是后来看到一票关于这操作队列话题的文
+章, 其中有一句提到 "因为两个操作提交的时间间隔很近, 线程池中的线程, 谁先启动是
+不定的. " 瞬间觉得这个 queue 名字有点忽悠人了, 还不如 pool~ 综合一点, 我们知道
+他可以比较大的用处在于可以帮组多线程编程就好了.
 
-18. What is lazy loading?
+## What is lazy loading?
 
 答案: 懒汉模式, 只在用到的时候才去初始化.  也可以理解成延时加载.  我觉得最好也最简单的一个列子就是 tableView 中图片的加载显示了.  一个延时载,
 避免内存过高, 一个异步加载, 避免线程堵塞.
 
-19. Can we use two tableview controllers on one viewcontroller?
+## Can we use two tableview controllers on one viewcontroller?
 
 答案: 一个视图控制只提供了一个 View 视图, 理论上一个 tableViewController 也不能放吧,  只能说可以嵌入一个 tableview 视图. 当然, 题目本身也有歧义,
 如果不是我们定性思维认为的 UIViewController,  而是宏观的表示视图控制者, 那我们倒是可以把其看成一个视图控制者, 它可以控制多个视图控制器, 比如
 TabbarController 那样的感觉.
 
-20. Can we use one tableview with two different datasources? How you will achieve this?
+## Can we use one tableview with two different datasources? How you will achieve this?
 
 答案: 首先我们从代码来看, 数据源如何关联上的, 其实是在数据源关联的代理方法里实现的.  因此我们并不关心如何去关联他, 他怎么关联上,
 方法只是让我返回根据自己的需要去设置如相关的数据源.  因此, 我觉得可以设置多个数据源啊, 但是有个问题是, 你这是想干嘛呢? 想让列表如何显示,
 不同的数据源分区块显示?
 
-21. What is advantage of using RESTful webservices?
-22. When to use NSMutableArray and when to use NSArray?
-23. What is the difference between REST and SOAP?
-24. Give us example of what are delegate methods and what are data source methods of uitableview.
-25. How many autorelease you can create in your application? Is there any limit?
-26. If we don't create any autorelease pool in our application then is there any autorelease pool already provided to us?
-27. When you will create an autorelease pool in your application?
-28. When retain count increase?
-29. Difference between copy and assign in objective c?
-30. What are commonly used NSObject class methods?
-31. What is convenience constructor?
-32. How to design universal application in Xcode?
-33. What is keyword atomic in Objective C?
-21. What are UIView animations
-22. How can you store data in iPhone application
+## What is advantage of using RESTful webservices?
+
+## When to use NSMutableArray and when to use NSArray?
+
+## What is the difference between REST and SOAP?
+
+## Give us example of what are delegate methods and what are data source methods of uitableview.
+
+## How many autorelease you can create in your application? Is there any limit?
+
+## If we don't create any autorelease pool in our application then is there any autorelease pool already provided to us?
+
+## When you will create an autorelease pool in your application?
+
+## When retain count increase?
+
+## Difference between copy and assign in objective c?
+
+## What are commonly used NSObject class methods?
+
+## What is convenience constructor?
+
+## How to design universal application in Xcode?
+
+## What is keyword atomic in Objective C?
+
+## What are UIView animations
+
+## How can you store data in iPhone application
 
 84. 什么是 Notification? 什么时候用 delegate, 什么时候用 Notification?
 
