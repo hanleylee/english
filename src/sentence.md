@@ -99,3 +99,5 @@ The poor can't afford the house loan.
 The spy was outed by the police.
 
 Chinese developers are concerned about their privacy protection, they never use their real IP addresses.
+
+Brad Pitt is not backing down from his legal fight against his ex-wife Angelina Jolie over a French winery they once owned together

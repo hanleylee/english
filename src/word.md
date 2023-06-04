@@ -229,12 +229,6 @@
 - `bottom`: 底向
 - `bounds checking`: 边界检查
 - `boxing`: 装箱, 装箱转换
-- `brace (curlybrace)`: 大括号, 花括号
-- `brace / curly`: 花括号 { }
-- `brace(curly brace)`: 大括弧, 大括号, 花括弧, 花括号
-- `bracket (squarebrakcet)`: 中括号, 方括号
-- `bracket(square brakcet)`: 中括弧, 中括号, 方括弧, 方括号
-- `brakets / parentheses`: 括号 ( )
 - `branch statement`: 分支语句
 - `breakpoint`: 断点
 - `brew`: 酿造
@@ -310,10 +304,8 @@
 - `code accesssecurity`: 代码访问安全
 - `code page`: 代码页
 - `collection`: 群集 集合
-- `colon`: 冒号
 - `combo box`: 复合方块, 复合框 组合框
 - `combo box`: 组合框
-- `comma`: 逗号
 - `command line`: 命令行
 - `comment`: 注释
 - `commit`: 交付; 承诺; 提交
@@ -368,7 +360,6 @@
 - `custom`: 定制, 自定义
 - `daemon`: 后台程序
 - `damping`: 阻尼
-- `dash`: 破折号 --
 - `data connection`: 数据连接
 - `data dictionary`: 数据字典
 - `data dictionaryview`: 数据字典视图
@@ -456,7 +447,6 @@
 - `document`: 文件 文档
 - `dot operator`: dot(句点) 运算子. (圆) 点操作符
 - `dots`: 省略号
-- `double quotation mark`: 双引号
 - `double-bytecharacter set (DBCS)`: 双字节字符集 (DBCS)
 - `double`: 双精度浮点型
 - `driver`: 驱动 (程序)
@@ -505,7 +495,6 @@
 - `exception`: 异常情况 异常
 - `exceptiondeclaration`: 异常声明
 - `exceptionspecification`: 异常规范
-- `exclamation`: 叹号
 - `exclusive lock`: 排它锁
 - `exhaustive`: 详尽的
 - `exit`: 退离 (指离开函式时的那一个执行点) 退出
@@ -595,7 +584,6 @@
 - `hook`: 挂钩 钩子
 - `hot key`: 热键
 - `hyperlink`: 超链结 超链接
-- `hyphen`: - 连字号
 - `icon`: 图示, 图标 图标
 - `identifier`: 识别字, 识别符号 标识符
 - `identity transform`: 恒等变换
@@ -848,7 +836,6 @@
 - `pattern`: 范式, 样式 模式
 - `performance`: 性能
 - `performance`: 效率, 性能兼而有之 性能
-- `period / full stop`: 句号
 - `persistence`: 持久性
 - `persistence`: 永续性 持久性
 - `persistent storage`: 持久性存储器
@@ -1047,7 +1034,6 @@
 - `semantic`: 语义的
 - `semantics`: 语义
 - `semaphore`: 信号量
-- `semicolon`: 分号
 - `separator`: 分隔符
 - `sequential container`: 序列式容器 顺序式容器 (对应于 associative container)
 - `sequentialcontainer`: 序列式容器
@@ -1066,7 +1052,6 @@
 - `signal`: 信号
 - `signature`: 标记式, 签名式, 署名式 签名
 - `signature`: 签名
-- `single quotation mark`: 单引号
 - `single-threaded`: 单线程
 - `sketch`: 素描
 - `slash`: 斜杠 /
@@ -1251,6 +1236,28 @@
 - `lookaround`: 环视
 - `lookahead`: 顺序环视
 - `positive lookahead`: 肯定型顺序环视
+
+## 标点符号
+
+- `comma`: 逗号
+- `colon`: 冒号
+- `semicolon`: 分号
+- `exclamation`: 叹号
+- `period / full stop`: 句号
+- `dash`: 破折号 --
+- `hyphen`: - 连字号
+- `ellipsis`: 省略号
+- `apostrophe`: 撇号或省字号
+- `underline`: 字底线
+- `italics`: 斜体
+- `double quotation mark`: 双引号
+- `single quotation mark`: 单引号
+- `brakets / parentheses`: 括号 ( )
+- `brace (curlybrace)`: 大括号, 花括号
+- `brace / curly`: 花括号 { }
+- `brace(curly brace)`: 大括弧, 大括号, 花括弧, 花括号
+- `bracket (squarebrakcet)`: 中括号, 方括号
+- `bracket(square brakcet)`: 中括弧, 中括号, 方括弧, 方括号
 
 ## 术语缩写
 

@@ -53,7 +53,7 @@
 我不知道你是否能看到这段    I don't know if you're ever gonna see these.
 我甚至不知道你是否还    I don't even know if you're still...
 天呐 希望你没事    Oh, God. I hope so...
-今天是第21... 不 是第22天    Today is day 21... uh, 22.
+今天是第 21... 不 是第 22 天    Today is day 21... uh, 22.
 要是不用去想    You know, if it wasn't for the existential terror of
 怎么在这浩瀚宇宙里活下去    staring into the literal void of space,
 那我感觉今天过得还不错    I'd say, I'm feeling a little better today.
@@ -61,7 +61,7 @@
 你会喜欢她的 很能干    You'd love her. Very practical.
 就是下手有点重    Only a tiny bit sadistic.
 燃料仓在作战时炸裂了 所以我们想了个方法利用反离子充电    So the fuel cells were cracked during battle, and we figured out a way to reverse the ion charge
-争取了大概 48小时的飞行时间    and bought ourselves, about, 48 hours of flight time.
+争取了大概 48 小时的飞行时间    and bought ourselves, about, 48 hours of flight time.
 但现在不行了    But it's now dead in the water,
 我们离地球还有上千光年距离    1,000 lightyears from the nearest 7- 11.
 氧气也只能维持到明天早上    Oxygen will run out tomorrow morning.
@@ -86,7 +86,7 @@
 那么    Is, umm...
 噢 我的天    Oh, my God!
 没事了    It's okay.
-灭霸离开地球已经23天了    It's been 23 days since Thanos came to Earth.
+灭霸离开地球已经 23 天了    It's been 23 days since Thanos came to Earth.
 世界各国政府分崩离析    World governments are in pieces.
 能正常运转的部门正在做人口统计    The parts that are still working are trying to take a census.
 结果似乎正如他...    And it looks like he did...
@@ -196,7 +196,7 @@
 我用原石的力量摧毁了原石    I used the stones to destroy the stones.
 这几乎要了我的命    It nearly killed me.
 但我的使命已经完成了 注定如此    But the work is done. It always will be.
-我就是...天命    I am inevitable.
+我就是... 天命    I am inevitable.
 我们得好好找找 他肯定在说谎    We have to tear this place apart. He has to be lying.
 我父亲什么都干得出来    My father is many things.
 但唯独不说谎    A liar is not one of them.
@@ -222,7 +222,7 @@
 但你仍选择迈出了这一步    didn't know where you were gonna come down.
 就是如此 我们总要前进下去 迈出微小却坚实的步伐    And that's it. That's those little, brave baby steps you gotta take.
 来让自己再次振作起来 找到自己的方向    To try and become whole again. To try and find purpose.
-1945年时我被封在了冰里 在那之前我刚遇到一生挚爱    I went in the ice in '45 right after I met the love of my life.
+1945 年时我被封在了冰里 在那之前我刚遇到一生挚爱    I went in the ice in '45 right after I met the love of my life.
 醒来却是七十年后了    Woke up 70 years later.
 但你只能向前看    You got to move on.
 继续生活    Got to move on.
@@ -431,7 +431,7 @@
 多年来 我一直把浩克当成某种疾病    For years I've been treating the Hulk like he's
 一直想摆脱他    some kind of disease, something to get rid of.
 但是后来 我开始把他看作解药    But then I started looking at him as the cure.
-我在伽马实验室里待了18个月 将智慧和力量合二为一    Eighteen months in a gamma lab. I put the brains and the brawn together.
+我在伽马实验室里待了 18 个月 将智慧和力量合二为一    Eighteen months in a gamma lab. I put the brains and the brawn together.
 你看现在我 完美结合了两者    And now look at me. Best of both worlds.
 - 打扰了 浩克先生  - 什么事    - Excuse me, Mr. Hulk?  - Yes?
 - 我们能合个影吗  - 必须的 小朋友    - Can we get a photo?  - 100%, little person.
@@ -493,7 +493,7 @@
 晚安    Night- night.
 这不是炫耀 她说爱我三千遍    Not that it's a competition, but she loves me 3,000.
 她刚说的吗    Does she now?
-你可能只有600到900遍左右    You were somewhere in the low 6 to 900 range.
+你可能只有 600 到 900 遍左右    You were somewhere in the low 6 to 900 range.
 - 你在读什么  - 一本关于有机肥的书    - What you reading?  - Just a book on composting.
 有机肥有什么新进展吗    What's new with composting?
 - 就是…  - 我搞定了    - Just ....  - I figured it out...
@@ -523,7 +523,7 @@ Tony    Tony...
 就是 开了个无聊的玩笑    Just... it was, just a bad joke.
 - 你不是认真的吧  - 我也没底    - You were kidding, right?  - I have no idea.
 我们现在讨论的可是时空穿梭 要么是开玩笑 要么是真玩儿完    We're talking about time travel here. Either it's all a joke, or none of it is.
-我们准备好了！ 戴上头盔吧    We're good! Get your helmet on.
+我们准备好了! 戴上头盔吧    We're good! Get your helmet on.
 斯科特 我会把你送回一星期前    Scott, I'm gonna send you back a week, let you walk
 让你在那边逛一小时 我们在十秒内把你带回来    around for an hour, then bring you back in 10 seconds.
 - 明白了吗  - 非常清楚    - Makes sense?  - Perfectly not confusing.
@@ -536,15 +536,15 @@ Tony    Tony...
 哎呀 我的背哟  - 这又是怎么回事  - 等一下  - 能给我点空间吗  - 行行行    Ooh! My back!  - What is this?  - Hold on.  - Can I get a little space?  - Yeah, yeah, yeah.
 - 你能把他带回来吗  - 我正在努力    - Can you bring him back?  - I'm working on it!
 这是个婴儿    It's a baby.
-- 这就是斯科特  - 婴儿版的他！    - It's Scott.  - As a baby!
+- 这就是斯科特  - 婴儿版的他!    - It's Scott.  - As a baby!
 - 他会长大的  - 把正常版的斯科特带回来    - He'll grow.  - Bring Scott back.
 我说关掉电源的时候就立刻关掉    When I say kill the power, kill the power.
-关掉！    And... kill it!
+关掉!    And... kill it!
 我的裤子被尿湿了    Somebody peed my pants.
 谢天谢地    Oh, thank God.
 但是我不知道是婴儿版的我 还是老年版的我    But, I don't know if it was "baby" me or "old" me.
 还是 现在的我自己    Or, just "me" me.
-时空穿梭！    Time travel!
+时空穿梭!    Time travel!
 干嘛这副表情    What?
 我觉得我们还挺成功的啊    I see this as an absolute win.
 为啥不高兴    Why the long face?
@@ -555,7 +555,7 @@ Tony    Tony...
 有点棘手 也很危险 本该有人来警告你们的    It's tricky. Dangerous. Somebody coulda cautioned you against it.
 - 你警告过了  - 哦 我警告过吗    - You did.  - Oh, did I?
 谢天谢地 我来了 不管怎样 我搞定了    Thank God, I'm here. Regardless, I fixed it.
-一个功能齐全的时空穿梭GPS    A fully functioning time- space GPS.
+一个功能齐全的时空穿梭 GPS    A fully functioning time- space GPS.
 我们还是讲和吧    I just want peace.
 事实证明 怨恨太耗人了 我不喜欢这样    Turns out, resentment is corrosive, and I hate it.
 我也不喜欢    Me, too.
@@ -603,7 +603,7 @@ Tony    Tony...
 啤酒在桶里 无线网络随便用    Beer's on the bucket. Feel free to log on to the wi- fi.
 直接连 没密码    No password, obviously.
 索尔 他又来了 电视上那小子刚又骂我蠢货了    Thor, he's back. That kid on the TV just called me a dickhead again.
-- 菜鸟至尊  - 是的 菜鸟至尊69    - Noobmaster.  - Yeah, Noobmaster69.
+- 菜鸟至尊  - 是的 菜鸟至尊 69    - Noobmaster.  - Yeah, Noobmaster69.
 菜鸟至尊 嗨 还是我 雷神索尔    Noobmaster. Hey, it's Thor again. You know, the God of Thunder?
 听好了 兄弟 如果你不立刻从游戏里下线    Listen, buddy. If you don't log off this game immediately I'm gonna fly
 我就飞到你家去 找到你藏身的地下室    over to your house, come down to that basement you're hiding in,
@@ -631,7 +631,7 @@ Tony    Tony...
 这里还有谁杀了他吗    Anyone else here killed that guy?
 没有 我认为没有    Nope. Didn't think so.
 科恩格 要不你跟大家说说 是谁砍了灭霸的脑袋    Korg, why don't you, tell everybody who chopped Thanos' big head off.
-额...是暴风战斧吗    Umm... Stormbreaker?
+额... 是暴风战斧吗    Umm... Stormbreaker?
 那么是谁在挥舞暴风战斧    Now, who's swinging Stormbreaker?
 我知道 你很痛苦 我曾经也这样    I get it. You're in a rough spot, okay? I've been there myself.
 你知道是谁帮我走出来的吗    You wanna know who helped me out of it?
@@ -868,7 +868,7 @@ Tony    Tony...
 我们就在这等着那个叫奎尔的人出现    We just wait around for this Quill guy to show up and
 然后他就会带我们找到力量原石对吗    then he leads us to the Power Stone, is that it?
 我们埋伏好    Let's take cover.
-在2014年寻找原石的可不止我们    We're not the only ones in 2014 looking for the stones.
+在 2014 年寻找原石的可不止我们    We're not the only ones in 2014 looking for the stones.
 等一下 你现在在说什么呢    Wait a minute, what are you talking about right
 还有谁在找这些石头    now? Who else is looking for these stones?
 我父亲 我姐姐    My father, my sister...
@@ -893,7 +893,7 @@ Tony    Tony...
 我们就在这儿等着奎尔出现    We just, wait around for this Quill guy to show up,
 然后他们会带我们找到力量原石 是吗    and then he leads us to the Power Stone, is that it?
 我们先埋伏好    Let's take cover.
-2014年寻找原石的可不止我们    We're not the only ones in 2014 looking for the stones.
+2014 年寻找原石的可不止我们    We're not the only ones in 2014 looking for the stones.
 - 那是谁  - 我也不知道    - Who was that?  - I don't know...
 我不知道 我的头快裂了    My head is splitting... I don't know...
 她的感官神经元可能在战斗中损坏了    Her synaptic drive was probably damaged in battle.
@@ -956,7 +956,7 @@ Tony    Tony...
 那名犯人请交给我处理    I'm gonna have to ask you to turn that prisoner over to me.
 - 洛基只能由奥丁来裁决  - 不 现在由我们裁决    - Loki will be answering to Odin himself.  - Oh, he's gonna answer to us.
 完事儿之后 再给奥丁处理 把箱子交个我    Odin can have what's left. And I'm gonna need that case.
-这70年来它一直都属于神盾局    That's been SHIELD property for over 70 years.
+这 70 年来它一直都属于神盾局    That's been SHIELD property for over 70 years.
 给我箱子 史塔克    Hand over the case, Stark.
 快点儿动手 鼠小弟 场面马上要失控了    All right, move it, Stuart Little. Things are getting dicey up here. Let's go.
 我不想争论现在谁说了算    I'm not gonna argue who's got the higher authority here, all right?
@@ -1100,7 +1100,7 @@ Tony    Tony...
 - 我爱你 妈妈  - 我也爱你    - I love you, Mom.  - I love you.
 多吃点沙拉    And eat a salad.
 - 我们得走了  - 再见    - Come on. We gotta go.  - Goodbye.
-- 三...二...  - 等下    - Three... two...  - No, wait!
+- 三... 二...  - 等下    - Three... two...  - No, wait!
 你在干啥?    Wh- what am I looking at?
 这个有时候要等一会儿    Oh, sometimes it takes a second.
 我仍然配得上这个    I'm still worthy.
@@ -1411,7 +1411,7 @@ Tony    Tony...
 我们至少要商量一下    We should at least discuss it.
 坐在这干瞪眼是没法把所有人救回来的    Look, us sitting here staring at that thing is not gonna bring everybody back.
 我是最强的复仇者 这是我的责任    I'm the strongest Avenger, okay? So this responsibility falls upon me.
-也是我的义务 不是因为...别说废话了 就让我来吧    It's my duty. It's not that... It's... stop it! Just let me.
+也是我的义务 不是因为... 别说废话了 就让我来吧    It's my duty. It's not that... It's... stop it! Just let me.
 让我来吧 让我有机会做点正确的事    Just let me do it. Just let me do something good.
 - 做点有用的事  - 听好    - Something great.  - Look...
 这个手套汇集了    It's not just the fact that that glove is channeling
@@ -1566,7 +1566,7 @@ Tony    Tony...
 你能选的除了他 就只剩一棵树了    Your choices were him, or a tree.
 队长 我要怎么处理这破东西?    Cap, what do you want me to do with this damn thing?
 把原石带的越远越好    Get those stones as far away as possible!
-不！    No!
+不!    No!
 我们得把它们送回去    We need to get them back where they came from.
 没法送回去了 灭霸把量子通道毁了    No way to get them back. Thanos destroyed the quantum tunnel.
 等等    Hold on!
