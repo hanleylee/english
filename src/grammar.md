@@ -3,21 +3,21 @@
 ## 十大词性
 
 - 非重点
-    - 代词
-    - 数词
-    - 感叹词
+    - 代词(Pronouns)
+    - 数词(Numerals)
+    - 感叹词(Interjections)
 - 重点
     - 实词
-        - 名词
-        - 副词
-        - 形容词
-        - 动词
+        - 名词(Nonus)
+        - 副词(Adverbs)
+        - 形容词(Adjectives)
+        - 动词(Verbs)
     - 虚词: 与实词相反, 不能单独作为句子成分的单词, 需要跟实词一起才组成了句子成分
-        - 介词: 表示名词, 代词等与句中其他词的关系
-        - 连词
-        - 冠词
+        - 介词(Prepositions): 表示名词, 代词等与句中其他词的关系
+        - 连词(Conjunctions)
+        - 冠词(Articles)
 
-### 代词
+### 代词 Pronouns
 
 pronoun = pro(代替) + noun(名词), 代名词的词
 
@@ -28,15 +28,15 @@ pronoun = pro(代替) + noun(名词), 代名词的词
 - who
 - anyone
 
-### 数词
+### 数词 Numerals
 
-num, 与数字有关的词
+与数字有关的词
 
 - one: 一
 - first: 第一
 - one-fourth: 四分之一
 
-### 感叹词
+### 感叹词 Interjections
 
 表示说话感情的词
 
@@ -44,9 +44,9 @@ num, 与数字有关的词
 - Ah: 啊~
 - aha: 啊哈
 
-### 名词
+### 名词 Nonus
 
-n, 表示具体或者抽象事物/人物的词
+表示具体或者抽象事物/人物的词
 
 - ice: 冰
 - world: 世界
@@ -59,9 +59,9 @@ example:
 
 - The **man** received **razor blades**
 
-### 动词
+### 动词 Verbs
 
-verb, 表示动作或状态的词
+表示动作或状态的词
 
 - kiss: 亲亲
 - sleep: 睡觉
@@ -72,9 +72,7 @@ example:
 
 - The man **received** razor blades
 
-#### 现在分词
-
-present participle
+#### 现在分词 present participle
 
 - 作为谓语的一部分: I am working from home now(working 现在分词, 表示进行时态)
 - 充当定语: This company has many employees working from home(working from home 现在分词充当定语)
@@ -84,9 +82,9 @@ present participle
 - 作为谓语的一部分: I have done this task.(done 过去分词, 表示完成时态)
 - 充当定语: I have many books written in English(written in English 过去分词, 充当定语)
 
-### 形容词
+### 形容词 Adjectives
 
-adjective, 形容名词的词
+形容名词的词
 
 - happy: 开心的
 - real: 真的
@@ -99,9 +97,9 @@ example:
 
 - The **handsome** man received razor blades
 
-### 副词
+### 副词 Adverbs
 
-adverb, 交代时间, 地点, 原因, 程度等非核心信息
+交代时间, 地点, 原因, 程度等非核心信息
 
 - gently: 轻轻地
 - hard: 艰难地
@@ -132,9 +130,9 @@ example:
                            └────────┘
 ```
 
-### 冠词
+### 冠词 Articles
 
-art, 起限定作用
+起限定作用
 
 - the
 - an
@@ -147,9 +145,9 @@ example:
 
 - He opened a **a** store
 
-### 介词
+### 介词 Prepositions
 
-prep, 出现在名词之前, 表示名词与其他词的关系
+出现在名词之前, 表示名词与其他词的关系
 
 - in
 - on
@@ -166,7 +164,7 @@ example:
 
 - He opened a store **in** Chengdu
 
-### 连词
+### 连词 Conjunctions
 
 - 并列连词
     - and
