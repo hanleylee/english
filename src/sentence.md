@@ -101,3 +101,7 @@ The spy was outed by the police.
 Chinese developers are concerned about their privacy protection, they never use their real IP addresses.
 
 Brad Pitt is not backing down from his legal fight against his ex-wife Angelina Jolie over a French winery they once owned together
+
+But on one critical dimension — their ability to improve our thinking — they don’t seem to be making much progress at all.
+
+Meanwhile, the arrival of generative artificial intelligence could make the tools we use more powerful than ever — or they could turn out to be just another mirage.
