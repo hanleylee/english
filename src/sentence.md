@@ -105,3 +105,15 @@ Brad Pitt is not backing down from his legal fight against his ex-wife Angelina 
 But on one critical dimension — their ability to improve our thinking — they don’t seem to be making much progress at all.
 
 Meanwhile, the arrival of generative artificial intelligence could make the tools we use more powerful than ever — or they could turn out to be just another mirage.
+
+I’ve also seen lots of people getting into arguments about immediate-mode vs. retained-mode GUI APIs. I think this has something to do with how simple the IMGUI concept is, as it leads people to think they understand it, and then they proceed to get into heated arguments as if they actually know what they’re talking about. I rarely see this problem when I’m talking about anything even mildly complicated, like quaternions.
+
+Since then, it’s found widespread acceptance across a large number of disciplines including  —  much to my surprise  —  web development.
+
+So this video will probably remain the last thing I have to say about “IMGUI” programming for the forseeable future, except to add the fact that if you’re arguing about it, you probably don’t understand it very well.
+
+There’s really not a lot there to argue about.
+
+We could mitigate this by requiring that patches be signed using the same key as the original package, but this is error prone and any mistake would have serious consequences.
+
+This is, fundamentally, the same problem that has plagued platforms that allow execution of code from third-party sources.
