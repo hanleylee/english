@@ -57,7 +57,7 @@ pronoun = pro(代替) + noun(名词), 代名词的词
 
 example:
 
-- The **man** received **razor blades**
+- The *man* received *razor blades*
 
 ### 动词 Verbs
 
@@ -70,12 +70,15 @@ example:
 
 example:
 
-- The man **received** razor blades
+- The man *received* razor blades
 
 #### 现在分词 present participle
 
-- 作为谓语的一部分: I am working from home now(working 现在分词, 表示进行时态)
-- 充当定语: This company has many employees working from home(working from home 现在分词充当定语)
+- 作为谓语的一部分
+    - I am working from home now(working 现在分词, 表示进行时态)
+- 充当定语: 表示主动的, 正在进行的或具有某种特性的行为
+    - This company has many employees *working from home*.(现在分词短语充当定语)
+    - Analysis of a malware *exploiting Android accessibility services*.(现在分词短语充当定语)
 
 #### 过去分词
 
@@ -95,7 +98,7 @@ example:
 
 example:
 
-- The **handsome** man received razor blades
+- The *handsome* man received razor blades
 
 ### 副词 Adverbs
 
@@ -110,10 +113,10 @@ example:
 
 example:
 
-- **gently** refuse
-- work **hard**
-- work **quite** hard
-- The handsome man **still** received razor blades.
+- *gently* refuse
+- work *hard*
+- work *quite* hard
+- The handsome man *still* received razor blades.
 
 ```txt
 ┌───────────┐ modify ┌───────────┐
@@ -138,12 +141,12 @@ example:
 - an
 - a
 
-- **the** apple
-- **an** apple
+- *the* apple
+- *an* apple
 
 example:
 
-- He opened a **a** store
+- He opened a *a* store
 
 ### 介词 Prepositions
 
@@ -156,13 +159,13 @@ example:
 - by
 - beyond
 
-- **beyond** the wall
-- **in** summer
-- because **of** sth
+- *beyond* the wall
+- *in* summer
+- because *of* sth
 
 example:
 
-- He opened a store **in** Chengdu
+- He opened a store *in* Chengdu
 
 ### 连词 Conjunctions
 
@@ -183,10 +186,10 @@ example:
 
 example:
 
-- apple **and** orange
-- bear **or** fish
-- time **and** money
-- The handsome man received many razor blades, **so** he opened a store in Chengdu
+- apple *and* orange
+- bear *or* fish
+- time *and* money
+- The handsome man received many razor blades, *so* he opened a store in Chengdu
 
 > - 从属连词后面加从句, 一定要有主句
 > - 从属连词后面一定要加独立的句子, 不能少成分
@@ -218,7 +221,7 @@ example:
 - `The handsome man with a bell holds a girl on the boat at dusk.`: `handsome` & `with a bell` 是定语, `on the boat` & `at dusk` 是状语
 - `She let him alone`: `alone` 是对宾语的补充说明,  即补语
 - `The other man is a Gaofushuai`: 主系表, 也是主谓补
-- `Zhanhuwei, a Gaofushuai, is cheated by a girl!`: 同位语从句
+- `Zhanhuwei, a Gaofushuai, is cheated by a girl!`: 包含同位语的简单句
 - `She likes eating fast food such as fries and hamburgers.`: `fries and hamburgers` 是同位语
 
 ## 句型
@@ -266,10 +269,12 @@ example:
 
 ### 名词性从句
 
-- 主语从句: It is believed that **the population is growing older**
-- 宾语从句: I believe that **the population is growing older**
-- 表语从句: The fact is that **the population is growing older**
-- 同位语从句: The demand for health care is increasing, due to the fact that **the population is growing older**
+- 主语从句: It is believed that *the population is growing older*
+- 宾语从句: I believe that *the population is growing older*
+- 表语从句: The fact is that *the population is growing older*
+- 同位语从句: The demand for health care is increasing, due to the fact that *the population is growing older*
+
+    **同位语从句必须有 that/wheather 引导**, 用于直接对名词进行补充解释(而不是对名词进行限定或区分). 这个名词通常是抽象名词: `fact`, `idea`, `news`, `question`, `belief` 等. 因为同位语从句的功能是解释该名词的具体信息, 因此 **去掉同位语从句后的句子含义会不完整**.
 
 名词性从句有两种引导词:
 
@@ -280,29 +285,48 @@ example:
 
 定语从句是从句充当定语的功能, 类似于形容词. 因此很多人叫定语从句叫形容词从句.
 
-第一种: 以关系代词 who, that, whom, which 引导
+1. 以关系代词 who, that, whom, which, whose 引导
+2. 以关系副词 why, where, when 引导
 
-第二种: 以关系副词 why, where, when 引导
+#### 限制性定语从句 / 非限制性定语从句
+
+定语从句分为两种:
+
+- 限制性定语从句: 限定或明确说明名菜或代词所指的具体对象, 提供的不可或缺的信息. **如果去掉这个从句, 主句会变得不完整**
+    - The book *that I borrowed from the library* is very interesting: 如果去掉了从句部分, 句子的意思就不完整了
+    - The car *that I bought last year* is blue: 限定是哪辆车, 去掉后句子不完整
+- 非限制性定语从句: 提供名词的附加信息, 对句子的核心意思不是必须的. **即使省略也不影响句子的主旨**. 通常使用逗号与主句隔开
+    - My brother, *who lives in New York,* is visiting me next week.
+    - My car, *which I bought last year,* is blue: 只是补充说明买车的时间, 去掉后句子仍然完整
+
+#### 定语从句与现在分词短语
+
+一定情况下, 限制性定语从句可以和现在分词短语互相转换
+
+- Analysis of a malware **that exploits Android Accessibility services**: 限制性定语从句
+- Analysis of a malware **exploiting Android Accessibility services**: 现在分词短语
+
+使用现在分词短语的句式更加简介, 技术文章较多采用.
 
 ### 介词短语从句
 
-**Prepositions** are words that indicate the relationships between various elements within a sentence. **Prepositional phrases** are groups of words containing prepositions. The preposition, its object, and any modifiers make up the prepositional phrase. A prepositional phrase will **begin with a preposition** and **end with the "object" of the preposition**. The pronoun "which" is the object of the preposition. "Which" introduces relative clause. The use of these prepositional phrases combines two sentences into one. Each prepositional phrase simply refers to what was already mentioned.
+*Prepositions* are words that indicate the relationships between various elements within a sentence. *Prepositional phrases* are groups of words containing prepositions. The preposition, its object, and any modifiers make up the prepositional phrase. A prepositional phrase will *begin with a preposition* and *end with the "object" of the preposition*. The pronoun "which" is the object of the preposition. "Which" introduces relative clause. The use of these prepositional phrases combines two sentences into one. Each prepositional phrase simply refers to what was already mentioned.
 
 - in which
     - I saw a movie. In this movie the villain goes to jail.
-    - I saw a movie **in which** the villain goes to jail.
+    - I saw a movie *in which* the villain goes to jail.
 
 - of which
     - There were ten apples. Four of the apples were rotten.
-    - There were ten apples four **of which** were rotten.
+    - There were ten apples four *of which* were rotten.
 
 - at which
     - She showed him the hospital. She was born at that hospital.
-    - She showed him the hospital **at which** she was born.
+    - She showed him the hospital *at which* she was born.
 
 - to which
     - This is the report. I was referring to this report.
-    - This is the report **to which** I was referring.
+    - This is the report *to which* I was referring.
 
 ## 形容词与名词的搭配
 
@@ -360,13 +384,13 @@ Mr.Bao won't get the job through charm alone.
 
 副词修饰形容词时, 副词在前
 
-I watched an **extremely** **moving** movie "La La Land" with my ex-boyfriend
+I watched an *extremely* *moving* movie "La La Land" with my ex-boyfriend
 
 ### 副词 + 副词
 
 副词修饰副词时, 修饰的那个在前
 
-Mr. Bao drives **extremely** **carefully**.
+Mr. Bao drives *extremely* *carefully*.
 
 > 唯有 enough 这个副词比较特殊, 必须后置
 
@@ -376,13 +400,13 @@ Mr. Bao drives **extremely** **carefully**.
 
 #### 副词在动词后面当小跟班
 
-- Mr. Bao **dances** **beautifully**
-- He **kissed** the girl **tenderly**: 宾语也很重要, 因此副词再往后挪位置
+- Mr. Bao *dances* *beautifully*
+- He *kissed* the girl *tenderly*: 宾语也很重要, 因此副词再往后挪位置
 
 #### 如果已经有定语修饰宾语了, 需要把副词放在动词之前
 
-- He **kissed** the girl **tenderly** living next door: ❌, 这样会导致读者懵逼, 不知道 tenderly 修饰 girl 还是 living
-- He **tenderly** **kissed** the girl living next door: ✅
+- He *kissed* the girl *tenderly* living next door: ❌, 这样会导致读者懵逼, 不知道 tenderly 修饰 girl 还是 living
+- He *tenderly* *kissed* the girl living next door: ✅
 
 #### 副词表示强烈语气时, 需要放到动词前
 

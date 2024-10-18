@@ -117,3 +117,13 @@ There’s really not a lot there to argue about.
 We could mitigate this by requiring that patches be signed using the same key as the original package, but this is error prone and any mistake would have serious consequences.
 
 This is, fundamentally, the same problem that has plagued platforms that allow execution of code from third-party sources.
+
+The setup most likely would have looked something the following diagram:
+
+It's somewhat telling of a company that would consider abusing features designed to support people with disabilities for a competitive advantage.
+
+That price point should give a clear indication on the value they placed on the ability to gain competitor intelligence from people's phones and tablets.
+
+I have yet to locate the functionality relevant to this in the apps I have obtained from archives, and more work needs to be done here.
+
+When someone visits a website using a browser or other software that checks for certificate revocation via OCSP, the Certificate Authority (CA) operating the OCSP responder immediately becomes aware of which website is being visited from that visitor’s particular IP address. Even when a CA intentionally does not retain this information, as is the case with Let’s Encrypt, CAs could be legally compelled to collect it. CRLs do not have this issue.
