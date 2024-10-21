@@ -266,6 +266,7 @@ example:
 - 时间状语从句: when, after, before
 - 让步状语从句: although, even if, even though
 - 条件状语从句: if, when, once, as long as
+- 方式壮语从句: by
 
 ### 名词性从句
 
@@ -274,25 +275,25 @@ example:
 - 表语从句: The fact is that *the population is growing older*
 - 同位语从句: The demand for health care is increasing, due to the fact that *the population is growing older*
 
-    **同位语从句必须有 that/wheather 引导**, 用于直接对名词进行补充解释(而不是对名词进行限定或区分). 这个名词通常是抽象名词: `fact`, `idea`, `news`, `question`, `belief` 等. 因为同位语从句的功能是解释该名词的具体信息, 因此 **去掉同位语从句后的句子含义会不完整**.
+    **同位语从句必须有 that/wheather 引导, 用于直接对名词进行补充解释, 而不是对名词进行限定或区分**. 这个名词通常是抽象名词: `fact`, `idea`, `news`, `question`, `belief` 等. 因为同位语从句的功能是解释该名词的具体信息, 因此 **去掉同位语从句后的句子含义会不完整**. that/wheather 作为连接词存在, 因此不能被省略.
 
 名词性从句有两种引导词:
 
 - 以 that 引导的名词性从句必定有个独立的句子
-- 以 wh 引导的名词性从句(what, why, how, when, where 等)
+- 以 wh 引导的名词性从句(`what`, `why`, `how`, `when`, `where` 等)
 
 ### 定语从句
 
 定语从句是从句充当定语的功能, 类似于形容词. 因此很多人叫定语从句叫形容词从句.
 
-1. 以关系代词 who, that, whom, which, whose 引导
-2. 以关系副词 why, where, when 引导
+1. 以关系代词 `that`, `which`, `who`, `whom`, `whose` 引导
+2. 以关系副词 `why`, `where`, `when` 引导
 
 #### 限制性定语从句 / 非限制性定语从句
 
 定语从句分为两种:
 
-- 限制性定语从句: 限定或明确说明名菜或代词所指的具体对象, 提供的不可或缺的信息. **如果去掉这个从句, 主句会变得不完整**
+- 限制性定语从句: **限定或明确说明** 名词或代词所指的具体对象, 提供的不可或缺的信息. **如果去掉这个从句, 主句会变得不完整**
     - The book *that I borrowed from the library* is very interesting: 如果去掉了从句部分, 句子的意思就不完整了
     - The car *that I bought last year* is blue: 限定是哪辆车, 去掉后句子不完整
 - 非限制性定语从句: 提供名词的附加信息, 对句子的核心意思不是必须的. **即使省略也不影响句子的主旨**. 通常使用逗号与主句隔开
