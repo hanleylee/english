@@ -168,19 +168,19 @@
 | Event Bubbling                          | 事件冒泡                 |                                                                     |
 | Event propagation                       | 事件传播                 |                                                                     |
 
-| 术语                          | 中文翻译                 | 例句                                                         |
-| -----------------------       | ----------------         | ------------------------------------------------------------ |
-| be typecast as                | 被类型转换为             |                                                              |
-| Interpolation                 | 插入, 插值               |                                                              |
-| imperatively                  | 命令式地                 |                                                              |
-| one composable function       | 组合式函数               |                                                              |
-| unwrap                        | 展开, 打开               |                                                              |
-| Listening to Events           | 监听事件                 |                                                              |
-| Transpilation                 | 转译                     |                                                              |
-| kebab-case                    | 连字符连接命名法         | <button-counter></button-counter>                            |
-| a two-way binding             | 双向绑定                 |                                                              |
-| syntactic sugar               | 语法糖                   |                                                              |
-| semantic class names          | 语义类名                 |                                                              |
+| 术语                          | 中文翻译                 |
+| -----------------------       | ----------------         |
+| be typecast as                | 被类型转换为             |
+| Interpolation                 | 插入, 插值               |
+| imperatively                  | 命令式地                 |
+| one composable function       | 组合式函数               |
+| unwrap                        | 展开, 打开               |
+| Listening to Events           | 监听事件                 |
+| Transpilation                 | 转译                     |
+| kebab-case                    | 连字符连接命名法         |
+| a two-way binding             | 双向绑定                 |
+| syntactic sugar               | 语法糖                   |
+| semantic class names          | 语义类名                 |
 | two-way data binding          | 双向数据绑定             |
 | Single-page Application       | 单页应用                 |
 | Controlled Components         | 受控组件                 |
@@ -229,7 +229,7 @@
 | volume           | 体积          | the volume of this cylinder             |
 | x-axis           | x 轴          | x-axis and y-axis                       |
 
-### 短语
+#### 短语
 
 | 内容                           | 含义         |
 | ----                           | ----         |
@@ -270,21 +270,21 @@
 
 ### 常用表达
 
-|  口语表达   | 含义 |用途  |
-|  ----  | ----  | --- |
-| Just to make sure we're all on the same page, ... | 我想确认一下, 我们现在在谈的是... | 沟通中, 确保大家在说同样的事情 |
-| Looks like we are all caught up | 看起来我们现在都清楚了 | 阶段性总结 |
-| What is the word for it | 口边的那个词是什么?  | 当遇到不知道如何表达某个含义的时候, 用于过渡 |
-| I haven't thought about this problem yet, let me think about it | 我还没想过这个问题, 让我思考下?  | 对于没想过的问题, 用于过渡 |
-| I can give you an example of ..., is that what you"re asking? | 确认问题 | 确认这个例子是面试官想了解的 |
-| Let me get back to you on that. I can't give you an exact answer for now | 我晚点再回复你, 我现在没法给你一个准确的答案 |  对于需要考虑的问题, 用于过渡 |
+| 口语表达                                                                 | 含义                                         | 用途                                         |
+| ----                                                                     | ----                                         | ---                                          |
+| Just to make sure we're all on the same page, ...                        | 我想确认一下, 我们现在在谈的是...            | 沟通中, 确保大家在说同样的事情               |
+| Looks like we are all caught up                                          | 看起来我们现在都清楚了                       | 阶段性总结                                   |
+| What is the word for it                                                  | 口边的那个词是什么?                          | 当遇到不知道如何表达某个含义的时候, 用于过渡 |
+| I haven't thought about this problem yet, let me think about it          | 我还没想过这个问题, 让我思考下?              | 对于没想过的问题, 用于过渡                   |
+| I can give you an example of ..., is that what you"re asking?            | 确认问题                                     | 确认这个例子是面试官想了解的                 |
+| Let me get back to you on that. I can't give you an exact answer for now | 我晚点再回复你, 我现在没法给你一个准确的答案 | 对于需要考虑的问题, 用于过渡                 |
 
-|  书面表达   | 含义 |用途  |
-|  ----  | ----  | --- |
-| Thank you for pointing that out. I really appreciate your help | 谢谢你指出来, 我非常感谢你的帮助 | 表达感谢 |
-| Is now a good time to talk about the project real quick? | 现在有时间快速沟通一下项目吗?  | 电话之前先询问对方是否有时间 |
-| I want to begin by/with, and then I'll move on to, next we're talking about, and finally we'll land on | 我想先从这个开始, 然后讨论那个, 最后是 ... | 开会前先讲清楚这次会议包括哪些主要内容 |
-| I just want to quickly touch base with you. Have you got a chance to go over my draft yet? is there any feedback? | 我想和你聊一下, 你有时间看过我的草稿了吗? 感觉如何?  | 跟踪反馈 |
+| 书面表达                                                                                                          | 含义                                                | 用途                                   |
+| ----                                                                                                              | ----                                                | ---                                    |
+| Thank you for pointing that out. I really appreciate your help                                                    | 谢谢你指出来, 我非常感谢你的帮助                    | 表达感谢                               |
+| Is now a good time to talk about the project real quick?                                                          | 现在有时间快速沟通一下项目吗?                       | 电话之前先询问对方是否有时间           |
+| I want to begin by/with, and then I'll move on to, next we're talking about, and finally we'll land on            | 我想先从这个开始, 然后讨论那个, 最后是 ...          | 开会前先讲清楚这次会议包括哪些主要内容 |
+| I just want to quickly touch base with you. Have you got a chance to go over my draft yet? is there any feedback? | 我想和你聊一下, 你有时间看过我的草稿了吗? 感觉如何? | 跟踪反馈                               |
 
 ### 关键字
 
@@ -382,36 +382,36 @@
 
 ## 技术英语表达
 
-| 术语                    | 中文翻译       | 例句 |
-| ----------------------- | -------------- |-----------------|
-| Under the hood          | 内部机制或细节 | Under the hood, it uses Babel and webpack, but you don"t need to know anything about them.|
-| wrap XXX in (into) XXX | 把什么包裹在什么里面 |Therefore, to pass a JS object in JSX, you must wrap the object in another pair of curly braces |
-| deploy to production | 部署到生产 | When you're ready to deploy to production, running npm run build will create an optimized build of your app in the build folder. |
-| First Contentful Paint |  "首次内容可见时间". 它是指在浏览器中加载网页时, 首次可以显示出页面内容的时间 (不包括图片)||
-| Largest Contentful Paint |  "最大内容可见时间". 它是指页面中最大的内容元素 (例如图像, 视频或文本) 出现在浏览器中可见的时间. ||
-| Don"t Repeat Yourself (DRY) | 不重复造轮子. (也叫 DRY 法则) |The most important principle for structuring state is to keep it DRY (Don"t Repeat Yourself). |
-| Built-in                | 内置的         | |
-| Expressions             | 表达式         | |
-| Comment                 | 注释          | |
-| interactivity           | 交互性         | |
-| specified               | 指定的         | |
-| Fixed values                          | 固定值             | |
-| pipeline | 在技术领域, pipeline 指的是一系列有先后顺序的相关的任务或开发流程.  | it just creates a frontend build pipeline |
-| toolchains | 工具链 | |
-| Breakpoint |断点 | set breakpoint 设置断点 |
-| Fields | 字段 (表单中的) | |
-| Search Engine Optimization | 搜索引擎优化 SEO ||
-| Semantic HTML |语义化的 HTML ||
-|  What You See is What You Get | 所见即所得 一般可以缩写为 WYSIWYG | |
-| a tic-tac-toe game | 井字游戏| |
-| minify | 简化 | I used a program to minify my code.|
-| inspect | 检查 | |
-| nesting components | 嵌套组件 | |
-| on-demand | 按需 | Figure out the absolute minimal representation of the state your application needs and compute everything else on-demand |
-| inverse data flow | 逆向数据流 | |
-| Spot the mistake  | 发现错误 | |
-| landing screen | 登陆界面 | |
-| Adjacent | 相邻的 | Adjacent JSX elements must be wrapped in an enclosing tag |
-| legible | 可读的 | |
-| the Unix epoch | 时间戳的起点 | "The Unix epoch"(Unix 纪元) 指的是时间戳的起点, 即 1970 年 1 月 1 日午夜 (00:00:00) 协调世界时 (UTC). 在计算机系统和编程中, 特别是在使用 Unix 和类 Unix 系统 (如 Linux, MacOS) 时, 时间经常以自 Unix 纪元以来经过的秒数来表示.  |
+| 术语                         | 中文翻译                                  | 例句                                                                                                                             |
+| -----------------------      | --------------                            | -----------------                                                                                                                |
+| Under the hood               | 内部机制或细节                            | Under the hood, it uses Babel and webpack, but you don"t need to know anything about them.                                       |
+| wrap XXX in (into) XXX       | 把什么包裹在什么里面                      | Therefore, to pass a JS object in JSX, you must wrap the object in another pair of curly braces                                  |
+| deploy to production         | 部署到生产                                | When you're ready to deploy to production, running npm run build will create an optimized build of your app in the build folder. |
+| First Contentful Paint       | 首次内容可见时间                          |                                                                                                                                  |
+| Largest Contentful Paint     | 最大内容可见时间                          |                                                                                                                                  |
+| Don"t Repeat Yourself (DRY)  | 不重复造轮子. (也叫 DRY 法则)             | The most important principle for structuring state is to keep it DRY (Don"t Repeat Yourself).                                    |
+| Built-in                     | 内置的                                    |                                                                                                                                  |
+| Expressions                  | 表达式                                    |                                                                                                                                  |
+| Comment                      | 注释                                      |                                                                                                                                  |
+| interactivity                | 交互性                                    |                                                                                                                                  |
+| specified                    | 指定的                                    |                                                                                                                                  |
+| Fixed values                 | 固定值                                    |                                                                                                                                  |
+| pipeline                     | 指一系列有先后顺序的相关的任务或开发流程. | it just creates a frontend build pipeline                                                                                        |
+| toolchains                   | 工具链                                    |                                                                                                                                  |
+| Breakpoint                   | 断点                                      | set breakpoint 设置断点                                                                                                          |
+| Fields                       | 字段 (表单中的)                           |                                                                                                                                  |
+| Search Engine Optimization   | 搜索引擎优化 SEO                          |                                                                                                                                  |
+| Semantic HTML                | 语义化的 HTML                             |                                                                                                                                  |
+| What You See is What You Get | 所见即所得 一般可以缩写为 WYSIWYG         |                                                                                                                                  |
+| a tic-tac-toe game           | 井字游戏                                  |                                                                                                                                  |
+| minify                       | 简化                                      | I used a program to minify my code.                                                                                              |
+| inspect                      | 检查                                      |                                                                                                                                  |
+| nesting components           | 嵌套组件                                  |                                                                                                                                  |
+| on-demand                    | 按需                                      | Figure out the absolute minimal representation of the state your application needs and compute everything else on-demand         |
+| inverse data flow            | 逆向数据流                                |                                                                                                                                  |
+| Spot the mistake             | 发现错误                                  |                                                                                                                                  |
+| landing screen               | 登陆界面                                  |                                                                                                                                  |
+| Adjacent                     | 相邻的                                    | Adjacent JSX elements must be wrapped in an enclosing tag                                                                        |
+| legible                      | 可读的                                    |                                                                                                                                  |
+| the Unix epoch               | 时间戳的起点                              | "The Unix epoch"(Unix 纪元) 指的是时间戳的起点, 即 1970 年 1 月 1 日午夜 (00:00:00) 协调世界时 (UTC).                            |
 
