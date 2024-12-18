@@ -22,8 +22,8 @@
 | Exchange Rate                                                             |                  | 汇率                   |
 | Central Bank                                                              |                  | 中央银行               |
 | Investment Bank                                                           |                  | 投资银行               |
-| Commercial Bannk                                                          |                  | 商业银行               |
 | Stock Exchange                                                            |                  | 证券交易所             |
+| Commercial Bannk                                                          |                  | 商业银行               |
 | Taiwan Stock Exchange                                                     | TWSE             | 台湾证交所             |
 | New York Stock Exchange                                                   | NYSE             | 纽约证交所             |
 | Dow Jones Industrial Average Index                                        | DJIX             | 道琼斯工业平均指数     |
