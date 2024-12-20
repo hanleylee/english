@@ -118,9 +118,9 @@
 
 一般来说用电或者有开关的就是 turn on, 用力气的就是 open
 
-开和关 ( open / close ) 只适用于物理上的事情, 比如 open the door , open your month
+开和关(open/close) 只适用于物理上的事情, 比如 open the door , open your month
 
-开和关 ( turn on / turn off ) 用于一切电子设备, 比如 turn on your phone , turn on your computer
+开和关(turn on/turn off) 用于一切电子设备, 比如 `turn on your phone`, `turn on your computer`
 
 ## 交通工具用 In 还是 On
 
@@ -150,7 +150,7 @@ how's it going 是美国最常见的"你好嘛"
 2. Hey! How's it going? 嘿! 最近怎么样?
 3. What's up (可以用原句回答)
 
-## 非常不常用的英语习语 ( 可能只会从 40 岁以上的年长的人口中听到几次)
+## 非常不常用的英语习语(可能只会从 40 岁以上的年长的人口中听到几次)
 
 - a diamond dozen
 - hit the sack
