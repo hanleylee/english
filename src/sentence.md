@@ -66,3 +66,5 @@
 - When someone visits a website using a browser or other software that checks for certificate revocation via OCSP, the Certificate Authority (CA) operating the OCSP responder immediately becomes aware of which website is being visited from that visitor’s particular IP address. Even when a CA intentionally does not retain this information, as is the case with Let’s Encrypt, CAs could be legally compelled to collect it. CRLs do not have this issue.
 - Databases typically store data on a Disk, which traditionally is comprised of spinning plates of metal with read/write heads mounted on a stepper-motor driven arm.
 - As part of this non-guarantee it is also not specified whether system suspends count as elapsed time or not
+- The Notorious Markets List highlights online and physical markets that reportedly engage in or facilitate substantial trademark counterfeiting or copyright piracy.
+
