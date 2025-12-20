@@ -4,9 +4,15 @@
 临冬城 Winterfell
 绝境长城 the Wall
 潘托斯 Pentos
-One lot steals a goat from another lot, before you know it they're ripping each other to pieces.  一伙人偷了另一伙人的山羊，转眼间他们就互相撕扯得血肉模糊。
 
-Your dead men seem to have moved camp.  看起来 死人转移阵地啰
+一伙人偷了另一伙人的山羊，转眼间他们就互相撕扯得血肉模糊。
+One lot steals a goat from another lot, before you know it they're ripping each other to pieces.
+
+异鬼…
+White walkers.
+
+看起来 死人转移阵地啰
+Your dead men seem to have moved camp.
 
 绣得还是这么漂亮！太棒了！
 Fine work as always. Well done.
@@ -25,3 +31,182 @@ Relax your bow arm.
 
 让小伙子们备好马鞍
 Get the lads to saddle their horses.
+
+牵马上路
+Get back on your horse.
+
+幸好我们不是孩子
+It's a good thing we're not children.
+
+给你最后一次机会
+I won't say it again.
+
+再来一次 父亲看着你呢
+Go on, father's watching.
+
+逮住了一名守夜人军团的逃兵
+They've captured a deserter from the Night's Watch.
+
+我真的看见了
+I saw what I saw.
+
+我 史塔克家族的艾德 临冬城公爵与北境守护 在此宣判你死刑
+I, Eddard of the House Stark, Lord of Winterfell and warden of the north, sentence you to die.
+
+判决死刑的人 必须亲自动手
+The man who passes the sentence should swing the sword.
+
+异鬼早已经消失了几千年
+The white walkers have been gone for thousands of years.
+
+所以他是骗人的？
+So he was lying?
+
+疯子总是把幻想当真
+A madman sees what he sees.
+
+一头怪物!
+It's a freak!
+
+这是冰原狼
+It's a direwolf.
+
+好顽强的野兽
+Tough old beast.
+
+绝境长城以南没有冰原狼
+There are no direwolves south of the wall.
+
+他们不属于这个地方
+They don't belong down here.
+
+冰原狼又是史塔克家族的纹章
+The direwolf is the sigil of your house.
+
+他们是注定要拥有这些小狼的(be meant to do sth 命中注定做某事)
+They were meant to have them.
+
+你们得亲自训练他们 亲自喂养他们 如果他们夭折 你们还得亲手埋葬他们
+You will train them yourselves. You will feed them yourselves. And if they die, you will bury them yourselves.
+
+在你告诉父亲之前 本来没什么好怕的
+There was nothing to be afraid of until you told father.
+
+我丈夫 倘若他告诉了国王, 你我的人头早已高挂城头
+My husband. If he told the king, both our heads would be skewered on the city gates by now.
+
+劳勃会找位新首相…找个人替他当差, 他才好继续干野猪 猎妓女…,\n咦 我说反了吗?\n反正就是一切照旧呗
+And Robert will choose a new Hand of the King... someone to do his job while he's off fucking boars and hunting whores... \nOr is it the other way around?\nAnd life will go on.
+
+提利昂大人的卧室里要多放些蜡烛
+We'll need plenty of candles for Lord Tyrion's chamber.
+
+我却听说他会通宵酗酒
+I'm told he drinks all night.
+
+能喝多少呢？他那样的… 身量?
+How much could he possibly drink? A man of his...Stature?
+
+我们从窖里提了八桶麦酒上来
+We've brought up eight barrels of ale from the cellar.
+
+你母亲干嘛非要我们打扮给国王看？(so dead set on sb doing sth 铁了心做某事)
+Why is your mother so dead set on us getting pretty for the king?
+
+是为了王后吧 我听说她是个臭美的矫情女人(sleek 光华的, mink 貂皮)
+It's for the queen, I bet. I hear she's a sleek bit of mink.
+
+我倒听说王子是个王室混蛋
+I hear the prince is a right royal prick.
+
+想想所有被这头小色狼… 上过的南方女孩
+Think of all those southern girls he gets to stab with his right royal prick.
+
+来吧 汤姆 给他剪漂亮点
+Go on, Tommy, shear him good.
+
+他爱这鸡窝头胜过爱姑娘
+He's never met a girl he likes better than his own hair.
+
+我看见国王了 他的队伍有几百号人呢
+I saw the king. He's got hundreds of people.
+
+我说过多少次不许乱爬？
+How many times have I told you no climbing?
+
+我要你跟我保证 决不再爬墙了
+I want you to promise me, no more climbing.
+
+你撒谎之前总是会盯着脚看
+You always look at your feet before you lie.
+
+快跑去找你父亲 说国王马上就到
+Run and find your father. Tell him the king is close.
+
+你小子发福了
+You've got fat.
+
+九年了…怎就见不着你呢？你死到哪里去了？
+Nine years... Why haven't I seen you? Where the hell have you been?
+
+替您守护北境啊 陛下
+Guarding the north for you, Your Grace.
+
+那就是詹姆·兰尼斯特啦 王后的孪生弟弟
+That's Jaime Lannister, the queen's twin brother.
+
+带我到你们家墓窖去 我要聊表敬意
+Take me to your crypt. I want to pay my respects.
+
+把这小畜生给我找回来
+Go and find the little beast.
+
+还记得我十来岁那会儿吗？
+You remember me at 16?
+
+成天盘算着怎么拿锤子砸人 怎么多搞几个女孩诸如此类
+All I wanted to do was crack skulls and fuck girls.
+
+我才不要为你着想 我是打算让你来治理国家 而我呢？痛痛快快地吃喝玩乐 嫖个过瘾
+I'm not trying to honor you. I'm trying to get you to run my kingdom while I eat, drink and whore my way to an early grave.
+
+你既然帮我得到了这张该死的铁椅子 就该帮我保住它吧
+You helped me win the Iron Throne, now help me keep the damn thing.
+
+我们注定是要并肩治理国家的
+We were meant to rule together.
+
+倘若你妹妹还活着 我们就该是联姻手足了
+If your sister had lived, we'd have been bound by blood.
+
+我有个儿子 你有个女儿 他们会把两家结合在一起
+I have a son, you have a daughter. We'll join our houses.
+
+大家都说他是七国上下最帅的男人
+They say that he is the most handsome man in the Seven Kingdoms.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
